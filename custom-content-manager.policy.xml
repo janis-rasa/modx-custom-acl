@@ -960,11 +960,11 @@
         </permission>
         <permission>
             <name>database</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>database_truncate</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>delete_category</name>
@@ -1028,11 +1028,11 @@
         </permission>
         <permission>
             <name>directory_remove</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>directory_update</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>edit_category</name>
@@ -1104,7 +1104,7 @@
         </permission>
         <permission>
             <name>export_static</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>file_create</name>
@@ -1120,7 +1120,7 @@
         </permission>
         <permission>
             <name>file_remove</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>file_tree</name>
@@ -1132,7 +1132,7 @@
         </permission>
         <permission>
             <name>file_update</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>file_upload</name>
@@ -1192,7 +1192,7 @@
         </permission>
         <permission>
             <name>logs</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>menus</name>
@@ -1224,7 +1224,7 @@
         </permission>
         <permission>
             <name>menu_trash</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>menu_user</name>
@@ -1276,7 +1276,7 @@
         </permission>
         <permission>
             <name>new_static_resource</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>new_symlink</name>
@@ -1356,11 +1356,11 @@
         </permission>
         <permission>
             <name>purge_deleted</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>remove</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>remove_locks</name>
@@ -1508,7 +1508,7 @@
         </permission>
         <permission>
             <name>unlock_element_properties</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>unpublish_document</name>
@@ -1536,7 +1536,7 @@
         </permission>
         <permission>
             <name>usergroup_user_list</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>usergroup_view</name>
@@ -1564,11 +1564,11 @@
         </permission>
         <permission>
             <name>view_element</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>view_eventlog</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>view_offline</name>
@@ -1592,7 +1592,7 @@
         </permission>
         <permission>
             <name>view_sysinfo</name>
-            <value>1</value>
+            <value></value>
         </permission>
         <permission>
             <name>view_template</name>
@@ -1608,11 +1608,11 @@
         </permission>
         <permission>
             <name>view_user</name>
-            <value>0</value>
+            <value></value>
         </permission>
         <permission>
             <name>workspaces</name>
             <value></value>
         </permission>
     </permissions>
-</policy>
+</policy> 
