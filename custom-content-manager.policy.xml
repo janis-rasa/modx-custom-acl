@@ -1608,7 +1608,7 @@
         </permission>
         <permission>
             <name>view_user</name>
-            <value>1</value>
+            <value>0</value>
         </permission>
         <permission>
             <name>workspaces</name>
